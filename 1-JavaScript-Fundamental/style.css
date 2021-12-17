@@ -1,0 +1,23 @@
+body {
+  font-family: Fira Code, Lato, Consolas;
+  background-color: aliceblue;
+}
+
+#btn {
+  padding: 10px;
+  font-size: 16px;
+  background-color: white;
+  color: black;
+  border-radius: 10px;
+  border: 1px solid red;
+}
+#btn:hover {
+  color: white;
+  background-color: black;
+  transition: 0.5s all ease-in-out;
+  cursor: pointer;
+}
+
+.random {
+  text-align: justify;
+}
